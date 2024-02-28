@@ -1,0 +1,4 @@
+def calculate(a1,b1,a2,b2,m):
+    numerator = a1 * b1 - a2 * b2
+    denominator = m*a1 - a2**2
+calculate(5,2,7,8,3) 
